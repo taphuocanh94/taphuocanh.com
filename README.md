@@ -1,5 +1,5 @@
 Hello
-```
+```js
 console.log('This is javascript!');
 ```
 
